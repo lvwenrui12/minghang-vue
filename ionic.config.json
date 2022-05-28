@@ -1,0 +1,8 @@
+{
+  "name": "minghang-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "0348d9b4"
+}
